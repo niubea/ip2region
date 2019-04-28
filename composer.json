@@ -1,0 +1,25 @@
+{
+  "type": "library",
+  "name": "czt/ip2region",
+  "homepage": "https://github.com/czt/ip2region",
+  "description": "Ip2Region for PHP",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "libo",
+      "email": "libo@usa.com",
+      "homepage": "http://www.niubea.com"
+    }
+  ],
+  "keywords": [
+    "Ip2Region"
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "classmap": [
+      "Ip2Region.php"
+    ]
+  }
+}
